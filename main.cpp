@@ -546,12 +546,10 @@ int main()
   cout << "_*_*_*_*_*_*_*_*_*__*_*_*_*_*WELCOME TO OS-SOME_*_*_*_*_*__*_*_*_*_*_*_\n";
   cout << "\n\nPROJECT BY:\n";
   cout << "---------------------\n";
-  cout << "1.Shivam Sharma(captain)\n";
-  cout << "2.Asher Ali\n";
+  cout << "2.Ashher Ali(captain)\n";
+  cout << "1.Shivam Sharma\n";
   cout << "3.Asutosh Pradhan\n";
   cout << "4.Shresth\n";
-  cout << "5.Rohit Raj \n";
-  cout << "\n\nDr. Daya Sagar Gupta(mentor)\n";
   cout << "\n\n\n\n\nLoading have patient and read the credits...";
 
   time_t actual = time(NULL);
